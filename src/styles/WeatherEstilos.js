@@ -2,7 +2,7 @@ import styled from "styled-components";
 import 'typeface-roboto';
 import { createGlobalStyle } from 'styled-components'
 
-//Dar color al body
+// Probando con global style podemos dar formato a todo el documento
 export const GlobalStyle = createGlobalStyle`
     body {
         //Color gradiente de fondo
@@ -65,6 +65,7 @@ export const GlobalStyle = createGlobalStyle`
     }
 `;
 
+//Probando con styled components
 export const StyledDiv = styled.div`
    
 `;
