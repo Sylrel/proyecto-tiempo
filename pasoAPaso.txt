@@ -1,0 +1,16 @@
+1. Creamos el proyecto con npx create-react-app .
+    un punto porque hemos abierto la carpeta ya en Visual Studio y ejecutamos el comando en consola
+
+2. Creamos la carpeta icons en public
+
+3. Borramos los archivos App.test.js logo.svg, reportWebVitals.js y setupTests.js
+porque no nos hace falta por ahora no se suelen utilizar
+
+4. Creamos la carpeta components en src y creamos el archivo Icons.js
+
+5. Luego usamos el comando rafce para crear la funcion constante
+
+6. Creo el h2 en App.js
+
+7. Hacemos uso del useState en App encima del return creando los 3 useState de search, values e icon
+
